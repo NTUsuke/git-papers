@@ -1,5 +1,5 @@
 #Mazima saak Bunun
-Created by: Me
+Created by: group members
 
 # Laung saak
 Bunun is a predicate-intial language
